@@ -1,4 +1,4 @@
-FROM ruby:2
+FROM ruby:2.5-alpine
 
 LABEL "version"="1.0.0"
 
